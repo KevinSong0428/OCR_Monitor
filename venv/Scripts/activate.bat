@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\Kevin\Documents\PyCharm_Projects\ocrMonitor\venv
+=======
+set VIRTUAL_ENV=C:\Users\Kevin\Documents\PyCharm_Projects\speech\venv
+>>>>>>> 5ac24faffe92f3336033c58fafabf551df10003e
 
 if not defined PROMPT set PROMPT=$P$G
 

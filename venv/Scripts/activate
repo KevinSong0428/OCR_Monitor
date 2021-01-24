@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\Kevin\Documents\PyCharm_Projects\ocrMonitor\venv"
+=======
+VIRTUAL_ENV="C:\Users\Kevin\Documents\PyCharm_Projects\speech\venv"
+>>>>>>> 5ac24faffe92f3336033c58fafabf551df10003e
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

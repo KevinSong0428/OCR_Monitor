@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ocrMonitor.iml" filepath="$PROJECT_DIR$/.idea/ocrMonitor.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/speech.iml" filepath="$PROJECT_DIR$/.idea/speech.iml" />
+>>>>>>> 5ac24faffe92f3336033c58fafabf551df10003e
     </modules>
   </component>
 </project>
