@@ -1,10 +1,10 @@
-#!C:\Users\Kevin\Documents\PyCharm_Projects\ocr-monitor\venv\Scripts\python.exe
-# EASY-INSTALL-ENTRY-SCRIPT: 'pytesseract==0.3.6','console_scripts','pytesseract'
+#!C:\Users\Kevin\Documents\PyCharm_Projects\ocrMonitor\venv\Scripts\python.exe
+# EASY-INSTALL-ENTRY-SCRIPT: 'pytesseract==0.3.7','console_scripts','pytesseract'
 import re
 import sys
 
 # for compatibility with easy_install; see #2198
-__requires__ = 'pytesseract==0.3.6'
+__requires__ = 'pytesseract==0.3.7'
 
 try:
     from importlib.metadata import distribution
@@ -30,4 +30,4 @@ globals().setdefault('load_entry_point', importlib_load_entry_point)
 
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
-    sys.exit(load_entry_point('pytesseract==0.3.6', 'console_scripts', 'pytesseract')())
+    sys.exit(load_entry_point('pytesseract==0.3.7', 'console_scripts', 'pytesseract')())

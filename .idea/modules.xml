@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ocr-monitor.iml" filepath="$PROJECT_DIR$/.idea/ocr-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ocrMonitor.iml" filepath="$PROJECT_DIR$/.idea/ocrMonitor.iml" />
     </modules>
   </component>
 </project>
